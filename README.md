@@ -19,4 +19,4 @@ Some helpfule powershell alias.
 5. `vs <solutionfile>`: open solution in vs2022.
 6. `vs19 <solutionFile>`: open solution in vs2019.
 7. `e`: Shortcut for explorer.
-8. `passwd`: this saves the admin password in an encrypted file. This file is used to run the `admin` alias.
+8. `passwd`: this saves the admin password in an encrypted file. Use the `-admin` switch to set the credential for the `admin` alias.
